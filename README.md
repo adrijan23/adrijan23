@@ -5,7 +5,7 @@
 
 - 👯 Looking for **Software Engineer internship opportunities**
 
-- 📫 How to reach me **adrijan.radjevic@gmail.com**
+- 📫 How to reach me: **adrijan.radjevic@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
