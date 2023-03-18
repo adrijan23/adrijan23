@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adrijan</h1>
 <h3 align="center">A passionate Computer Science student</h3>
 
-- 🔭 I’m currently studying at **Faculty of Technical Sciences**
+- 🔭 Currently studying at **Faculty of Technical Sciences**
 
-- 👯 I’m looking for **Software Engineer internship opportunities**
+- 👯 Looking for **Software Engineer internship opportunities**
 
 - 📫 How to reach me **adrijan.radjevic@gmail.com**
 
