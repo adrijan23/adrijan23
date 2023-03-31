@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/x4EkGKajzro7x6Qfwx" width="480" height="120" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/x4EkGKajzro7x6Qfwx">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:25%;position:relative;"><iframe src="https://giphy.com/embed/x4EkGKajzro7x6Qfwx" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/x4EkGKajzro7x6Qfwx">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Adrijan</h1>
 <h3 align="center">A passionate Computer Science student</h3>
 
