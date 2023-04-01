@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://s10.gifyu.com/images/Untitled--Made-with-FlexClipced4e86b2fa75584.gif" width="200px">
+<img src="https://s10.gifyu.com/images/Untitled--Made-with-FlexClipced4e86b2fa75584.gif" width="100px" height="50px">
 </p>
 <h1 align="center">Hi 👋, I'm Adrijan</h1>
 <h3 align="center">A passionate Computer Science student</h3>
