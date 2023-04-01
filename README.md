@@ -1,6 +1,4 @@
-<p align="center">
-<img src = "https://s10.gifyu.com/images/Untitled--Made-with-FlexClip-2.gif">
-</p>
+<iframe src="https://giphy.com/embed/1fdnLJwgMF2PHbwsvp" width="480" height="206" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1fdnLJwgMF2PHbwsvp">via GIPHY</a></p>
 
 <h1 align="center">Hi 👋, I'm Adrijan</h1>
 <h3 align="center">A passionate Computer Science student</h3>
