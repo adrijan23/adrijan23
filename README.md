@@ -1,5 +1,5 @@
 <p align="center">
-<img src = "https://s10.gifyu.com/images/ezgif-5-9789293171.gif">
+<img src = "https://s10.gifyu.com/images/Untitled--Made-with-FlexClip-2.gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm Adrijan</h1>
