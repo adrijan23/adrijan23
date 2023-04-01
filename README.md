@@ -1,4 +1,4 @@
-![Sample Gif](http://i.imgur.com/______.gif)
+![Sample Gif](https://s10.gifyu.com/images/Untitled--Made-with-FlexClipced4e86b2fa75584.gif)
 
 <img src="/art/sample.gif?raw=true" width="200px">
 
