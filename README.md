@@ -1,4 +1,4 @@
-[![Untitled--Made-with-FlexClipced4e86b2fa75584.gif](https://s10.gifyu.com/images/Untitled--Made-with-FlexClipced4e86b2fa75584.gif)](https://gifyu.com/image/SI5Fk)
+<img src="https://s10.gifyu.com/images/Untitled--Made-with-FlexClipced4e86b2fa75584.gif">
 
 <h1 align="center">Hi 👋, I'm Adrijan</h1>
 <h3 align="center">A passionate Computer Science student</h3>
