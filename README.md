@@ -1,6 +1,6 @@
 ![Sample Gif](https://s2.gifyu.com/images/Untitled--Made-with-FlexClip-1.gif)
 
-<p><center><img src="/art/sample.gif?raw=true" width="200px"></center><p/>
+<center><span><img src="/art/sample.gif?raw=true" width="200px"><span/></center>
 <h1 align="center">Hi 👋, I'm Adrijan</h1>
 <h3 align="center">A passionate Computer Science student</h3>
 
