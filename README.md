@@ -1,4 +1,6 @@
-![](https://github.com/adrijan23/adrijanGIF.gif)
+<p align="center">
+<img src = "https://s10.gifyu.com/images/ezgif-5-9789293171.gif">
+</p>
 
 <h1 align="center">Hi 👋, I'm Adrijan</h1>
 <h3 align="center">A passionate Computer Science student</h3>
