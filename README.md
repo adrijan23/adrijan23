@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:25%;position:relative;"><iframe src="https://giphy.com/embed/x4EkGKajzro7x6Qfwx" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/x4EkGKajzro7x6Qfwx">via GIPHY</a></p>
+<a href="https://gifyu.com/image/SI5Fk"><img src="https://s10.gifyu.com/images/Untitled--Made-with-FlexClipced4e86b2fa75584.gif" alt="Untitled--Made-with-FlexClipced4e86b2fa75584.gif" border="0" /></a>
 <h1 align="center">Hi 👋, I'm Adrijan</h1>
 <h3 align="center">A passionate Computer Science student</h3>
 
