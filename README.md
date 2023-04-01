@@ -1,4 +1,4 @@
-<![Sample Gif](https://gifyu.com/image/SIDkn)
+![Sample Gif](https://s10.gifyu.com/images/Untitled--Made-with-FlexClip-2.gif)
 
 <center><span><img src="/art/sample.gif?raw=true" width="200px"><span/></center> 
 
